@@ -8,4 +8,5 @@ A simple chat app using Socket.io with Node JS, Express
 
 # run the app
 nodemon index
+Open browser and type: localhost:3000
 
